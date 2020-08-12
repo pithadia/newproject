@@ -4,5 +4,6 @@ class kaushal
 	{
 		System.out.println("This is the first program here");
 		System.out.println("Second line");
+		System.out.println("Third Line");
 	}
 }
